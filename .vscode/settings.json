@@ -9,7 +9,7 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "conn",
+            "name": "conne",
             "database": "airbnb",
             "username": "root",
             "password": ""
@@ -23,8 +23,8 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "conne",
-            "database": "airbnb",
+            "name": "db_connection",
+            "database": "record",
             "username": "root",
             "password": ""
         }
